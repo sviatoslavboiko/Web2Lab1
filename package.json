@@ -13,6 +13,7 @@
   },
   "author": "Sviatoslav Boiko",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/sviatoslavboiko/WebLabs/issues"
   },
